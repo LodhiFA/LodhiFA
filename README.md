@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LodhiFA
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning NodeJS and GraphQL
+- 💞️ I’m looking to collaborate on MERN stack
